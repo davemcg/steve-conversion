@@ -1,4 +1,4 @@
-# Steve sucks!!!!
+# Steve is great!!!! 
 def dollars_to_cents(dollars):
 	cents = dollars * 100
 	return cents
@@ -6,5 +6,10 @@ def dollars_to_cents(dollars):
 def hours2minutes(hours):
 	minutes = hours * 60
 	return hours
+
+def gallons2liters(gallons):
+	liters = gallons * 3.78
+	return(liters)
+
 
 
